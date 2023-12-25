@@ -1,0 +1,2 @@
+# palestine
+web project
