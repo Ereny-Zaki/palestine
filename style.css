@@ -1,0 +1,215 @@
+
+.header{ 
+  background-color: aliceblue;
+  width: 100%;
+  z-index:3333;
+  position:fixed ;
+  align-items: center;
+  align-content: center;
+  padding:10px 500px;
+  top:0;
+}
+
+form{
+  width: 100px;
+  height: 200px;
+  margin-left: 40%;
+  position: relative;
+}
+input{
+  position: relative;
+  top: 35px;
+  bottom: 10px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  height: 30px;
+  width: 350px;
+  text-align: left;
+  border-radius: 5px;
+  border: 2px solid red ;
+}
+
+label{
+  position: relative;
+  top: 59px;
+  left: -100px;
+  font-size: 20px;
+  color: green;
+}
+
+.login{
+  align-items: center;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  position: relative;
+  top: 30px;
+}
+
+button{
+  border: 2px solid green;
+  background-color:rgb(231, 206, 208);
+  position: relative;
+  left: 43px;
+  top: 75px;
+  border-radius: 5px;
+  padding: 7px 100px;
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+}
+
+button:hover{
+  cursor: pointer;
+  transition: all 0.5 linear;
+  transform: translateY(10px);
+  transition-duration: 0.5s;
+  color: green;
+  border-color: red;
+}
+.navigation{
+  padding: 10px;
+}
+.navigation a {
+  color:green;
+  text-decoration: none;
+  font-size:x-large;
+  font-family: sans-serif;
+  padding:10px;
+}
+.navigation a:hover{
+  color: crimson;
+}
+
+body {
+  background-color:transparent ;
+}
+
+.content h1{
+  color: darkred;
+  text-align: center;
+  font-family:sans-serif ;
+  position: relative;
+  left: 40px;
+  top: 90px;
+  font-size: 70px;
+}
+
+.content img{
+  width: 100%;
+  height: 300px;
+  position: relative;
+  z-index: 500;
+  top: 50px; 
+}
+
+.news img{
+  width: 439px;
+  height: 400px;
+  position: relative;
+  top:110px ;
+}
+
+.news{
+  background-color: white;
+  height: 70px;
+  width: 100%px;
+  position: relative;
+  top: -60px;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  justify-content: center;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.text1{
+  position: relative;
+  top: 235px;
+  font-size: 30px;
+  width: 440px;
+  background-color: rgba(255, 255, 255, 0.5);
+  height: 100px;
+  z-index:2222;
+}
+
+.text2{
+  position: relative;
+  top: 105px;
+  font-size: 30px;
+  width: 430px;
+  height: 100px;
+  left: 443px;
+  width: 440px;
+  background-color: rgba(255, 255, 255, 0.5);
+  z-index: 2222;
+}
+
+.text3{
+  position: relative;
+  font-size: 30px;
+  width: 470px;
+  height: 100px;
+  left: 887px;
+  width: 440px;
+  background-color: rgba(255, 255, 255, 0.5);
+  top: -25px;
+  z-index: 2222;
+}
+
+.show .check{
+  position: relative;
+  top:-10px;
+  left: -160px;
+}
+
+.show p{
+  position: relative;
+  top: -80px;
+  left: 50px;
+  width: 150px;
+  font-size: 21px;
+  color: green;
+  font-weight: bold;
+}
+
+.text4{
+  text-align: center;
+  background-color: rgba(224, 212, 212, 0.993);
+  font-family: ARIAL;
+  font-size: 30px;
+}
+
+.text5{
+  font-family:georgia;
+  text-align: center;
+  font-size: 25px;
+  color: darkred;
+}
+
+.text6{
+  font-family:oblique;
+  text-align: center;
+  font-size:25px ;
+  color: rgb(10, 100, 10);
+}
+
+.text7{
+  font-family: ARIAL;
+  text-align: center;
+  font-size: 30px;
+  background-color: rgba(224, 212, 212, 0.993);
+}
+
+.text8{
+  font-family:georgia;
+  color: darkred;
+  font-size: 20px;
+  text-align: center;
+}
+
+
+
